@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+    background-color: #E24C27;
+    margin: 0;
+}
+main{
+    width: 80%;
+    margin: auto;
+
+
+}
+.about_text{
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.about_image{
+   width: 49%;
+   display: inline-block;
+   vertical-align: middle;
+}
+a{
+    background-color: #D68E28;
+    text-decoration: none;
+    color: black;
+    padding: 4px;
+    margin: 10px;
+
+}
+h1{
+    color: white;
+}
+h2{
+    text-align: center;
+}
+p1{
+    color: white;
+}
+.pizza_image{
+    width: 40%;
+   display: inline-block;
+   vertical-align: middle;
+   text-align: left;
+   
+   
+
+
+
+}
+.pizza_text{
+    width: 55%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+
+
+}
+.image{
+    width: 99%;
+}
+span{
+    color: white;
+}
+.image1{
+    width: 90px;
+    height: 90px;
+
+}
+.akt{
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+}
+.soc{
+    width: 39%;
+    display: inline-block;
+}
+footer{
+    background-color: #D68E28;
+    padding: 20px;
+    position: relative;
+    
+}
+footer img{
+    width: 50px;
+}
+.logof{
+    width: 200px;
+    position: absolute;
+    right: 30px;
+    bottom: 15px;
+    
+}
+.pizza_image:hover{
+    transform: scale(1.1);
+}
+
+
+
+
